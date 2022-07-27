@@ -6,12 +6,12 @@
 # https://gist.github.com/RundesBalli/4bdcf555c78c17a7b917de31cd7b4df0
 
 # Server variables
-server="example.org"
-port=443
+server="cottonwear.ddns.net"
+port=80
 
 # Telegram variables
-botToken=""
-chatId=""
+botToken="1737882228:AAGbziTC3YsUPnGuFzuF-f3bJE_URsw3EuY"
+chatId="739619208"
 
 # Use netcat to check if a daemon on $server:$port is running.
 # If not, send telegram message.
